@@ -1,0 +1,8 @@
+        
+        
+        
+        'NAME': 'Raffle',      
+        'USER': 'qwdsfwnu',      
+        'PASSWORD': 'paxy_eJ1KTUbibo7giPDv2GRjXed4FNt',  
+        'HOST': 'postgres://qwdsfwnu:paxy_eJ1KTUbibo7giPDv2GRjXed4FNt@kala.db.elephantsql.com/qwdsfwnu',         
+        'PORT': '5432',
